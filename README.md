@@ -30,4 +30,9 @@
 ---
 
 ## 📂 Project Structure
-
+  📦 Mapty
+┣ 📄 index.html
+┣ 📄 style.css
+┣ 📄 script.js
+┣ 📄 Screenshot (226).png
+┗ 📄 README.md
