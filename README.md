@@ -3,7 +3,7 @@
 
 **Mapty** is a JavaScript-based fitness application that allows users to log and visualize their workouts (Running and Cycling) on an interactive map. Built using Leaflet.js and Geolocation API, this app provides an intuitive and dynamic interface for tracking workouts.
 
-![Mapty Screenshot](Screenshot%20(226).png)
+![Image](https://github.com/user-attachments/assets/4f0c8c24-e34c-41b0-be9f-53d3a76d02ea)
 
 ---
 
